@@ -12,7 +12,7 @@ Cutli is a tool to short url. This tool uses TinyURL's Api. It is created for Ed
 
 ## Demo
 
-<img src="demo.png" alt="Demo" />
+<img src="demo.gif" alt="Demo" height ="70%" width = "70%"/>
 
 ## Technologies
 
